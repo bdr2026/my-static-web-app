@@ -2,8 +2,8 @@ const data = {
   products: [
     {
       id: 10,
-      name: 'Strawberries',
-      description: '16oz package of fresh organic strawberries',
+      name: 'Bananas',
+      description: '6 bananas',
       quantity: '1',
     },
     {
