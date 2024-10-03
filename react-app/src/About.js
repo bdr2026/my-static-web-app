@@ -5,8 +5,7 @@ const About = () => (
     <div className="content-title-group not-found">
       <h2 className="title">Product Wish List</h2>
       <p>
-        This project was created to help represent a fundamental app written
-        with React. The shopping theme is used throughout the app.
+        This is some text.  This is some more text
       </p>
       <br />
       <h2 className="title">Resources</h2>
