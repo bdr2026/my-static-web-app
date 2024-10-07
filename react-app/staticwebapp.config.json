@@ -1,4 +1,11 @@
 {
+  "routes": [
+    {
+      "route": "/",
+      "redirect": "https://app.findocs.com",
+      "statusCode": 302
+    }
+  ],
   "navigationFallback": {
     "rewrite": "/index.html",
     "exclude": ["*.{css,scss,js,png,gif,ico,jpg,svg}"]
