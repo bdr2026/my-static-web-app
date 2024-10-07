@@ -2,7 +2,7 @@
   "routes": [
     {
       "route": "/",
-      "redirect": "https://app.findocs.com",
+      "redirect": "https://app.findocs.ai",
       "statusCode": 302
     }
   ],
